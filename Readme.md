@@ -1,4 +1,4 @@
-# first Vue.js App
+# First Vue.js App
 
 # what is this?
 
